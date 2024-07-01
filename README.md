@@ -19,10 +19,10 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/MatyBene"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatyBene&theme=dark&background=1c1917&hide_border=true&locale=en" alt="MatyBene's GitHub stats" /></a>
+<a href="http://www.github.com/MatyBene"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatyBene&theme=panda" alt="MatyBene's GitHub stats" /></a>
 
-<a href="http://www.github.com/MatyBene"><img src="https://github-readme-stats.vercel.app/api?username=MatyBene&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MatyBene's GitHub stats" /></a>
+<a href="http://www.github.com/MatyBene"><img src="https://github-readme-stats.vercel.app/api?username=MatyBene&theme=panda&hide_border=true&card_width=700" alt="MatyBene's GitHub stats" /></a>
 
-<a href="http://www.github.com/MatyBene"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MatyBene&stroke=fffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/MatyBene"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MatyBene&theme=panda&hide_border=true&card_width=700" /></a>
 
-<a href="https://github.com/MatyBene" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatyBene&langs_count=100&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/MatyBene" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatyBene&theme=panda&hide_border=true&card_width=700" alt="Top Languages" /></a>
