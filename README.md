@@ -12,6 +12,7 @@
 <a href="https://es.react.dev" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" width="36" height="36" alt="React" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="36" height="36" alt="C" /></a>
 <a href="https://sequelize.org" target="_blank" rel="noreferrer"><img src="https://sequelize.org/img/logo.svg" width="36" height="36" alt="C" /></a>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="36" height="36" alt="Java" /></a>
 </p>
 
 ## Badges
