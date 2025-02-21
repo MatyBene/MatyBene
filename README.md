@@ -14,6 +14,7 @@
 <a href="https://sequelize.org" target="_blank" rel="noreferrer"><img src="https://sequelize.org/img/logo.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" width="36" height="36" alt="SpringBoot" /></a>
+<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/JUnit.svg" width="36" height="36" alt="C" /></a>
 </p>
 
 ## Badges
