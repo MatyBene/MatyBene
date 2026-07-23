@@ -1,30 +1,56 @@
-## Skills
+# Hi, I'm Matías Benedetti
+
+Software Engineering student from Argentina, focused on backend development with Java and Spring Boot.
+
+Currently learning Go while building full-stack applications with Angular and MySQL.
+
+## About Me
+
+- Software Engineering student
+- Backend-focused developer
+- Interested in REST APIs, software architecture and databases
+- Linux user
+- Always learning new technologies
+
+## Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### Frameworks & Libraries
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+## GitHub Stats
 
 <p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.visualstudiocode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/nodejs" width="36" height="36" alt="Node.js" /></a>
-<a href="https://es.react.dev" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" width="36" height="36" alt="React" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="36" height="36" alt="C" /></a>
-<a href="https://sequelize.org" target="_blank" rel="noreferrer"><img src="https://sequelize.org/img/logo.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" width="36" height="36" alt="SpringBoot" /></a>
-<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/JUnit.svg" width="36" height="36" alt="C" /></a>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353930/jest.svg" width="36" height="36" alt="C" /></a>
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=matybene&show_icons=true&theme=react&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=matybene&layout=compact&theme=react&hide_border=true"/>
 </p>
 
-## Badges
+## Connect
 
-<b>My GitHub Stats</b>
-<p align="center">
-<a href="http://www.github.com/MatyBene"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatyBene&theme=panda" alt="MatyBene's GitHub stats" /></a>
-<a href="http://www.github.com/MatyBene"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MatyBene&theme=panda&hide_border=true&card_width=700" /></a>
-<a href="https://github.com/MatyBene" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatyBene&theme=panda&hide_border=true&card_width=700&langs_count=10" alt="Top Languages" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasbenedetti)
 
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benedettimaty@gmail.com)
